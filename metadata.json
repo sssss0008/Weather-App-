@@ -1,0 +1,6 @@
+{
+  "name": "Weather",
+  "description": "Real-time weather forecasts, 24-hour hourly updates, 7-day outlooks, interactive weather metrics, location search, and AI weather insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
